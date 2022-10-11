@@ -8,5 +8,3 @@ for that respective unit of analysis.
 3. Lahore Master CSV Folder: Contains all CSV files for Lahore, which have households, population, and electoral characteristics.
 
 Feel free to contact in case of any queries
-
-email: muhammad.rahman@lums.edu.pk
