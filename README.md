@@ -9,4 +9,4 @@ for that respective unit of analysis.
 
 Feel free to contact in case of any queries
 
-email: abdulrehmanbhalli@live.com
+email: muhammad.rahman@lums.edu.pk
