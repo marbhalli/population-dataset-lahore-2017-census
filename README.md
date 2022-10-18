@@ -1,5 +1,5 @@
 # population-dataset-lahore-2017-census
-Hi y'all
+Hi
 
 This repo contains the entirety of population dataset we have made at Team UrbanTech. A few points on the folders:
 1. Master Folders: They contain a geopackage file for each unit of analysis i.e, tehsil, charge, and circle, respectively. The file has various household and population characteristics, the details of which can be found in the attached report.
